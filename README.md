@@ -15,4 +15,4 @@ El pastelero:
 * una tabla donde aparezcan los pedidos que se han realizado con los datos del formulario.
 
 
-# [Demostración de Práctica](./Index.html)
+# [Demostración de Práctica](./index.html)
